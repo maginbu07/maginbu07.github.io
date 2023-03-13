@@ -1,5 +1,5 @@
 ---
-title: Another Sample Page
+title: Primer Post del blog
 published: true
 ---
 
