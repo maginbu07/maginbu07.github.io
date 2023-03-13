@@ -10,7 +10,7 @@ Este post es el principio de este blog donde ire actualizando en los proyectos q
 ## [](#header-2)Trabajos Actuales
 
 *   **Este blog**.
-*   **Someone behind my door**: Mi primer videojuego como desarollador indie, es del genero teror psicologico y esta siendo desarrolado en Unreal engine.
+*   **Someone behind my door**: Mi primer videojuego como desarollador indie, es del genero terror psicologico y esta siendo desarrolado en Unreal engine.
 
 [Descarga Unreal Engine para tus proyectos](https://www.unrealengine.com/en-US/download).
 
